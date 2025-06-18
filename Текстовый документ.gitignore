@@ -5,8 +5,8 @@
 *.so
 *.a
 *.out
-cipher_program
-cipher_program.exe
+unreal_rgr
+unreal_rgr.exe
 
 # Игнорировать временные файлы
 build/
